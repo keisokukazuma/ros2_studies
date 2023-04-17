@@ -1,0 +1,26 @@
+[0.005s] Invoking command in '/home/keisoku/ros2_studies/build/my_msg_class': AMENT_PREFIX_PATH=/home/keisoku/ros2_studies/install/my_messages:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keisoku/ros2_studies/install/my_messages:/opt/ros/humble LD_LIBRARY_PATH=/home/keisoku/ros2_studies/install/my_messages/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/keisoku/ros2_studies/install/my_messages/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/keisoku/ros2_studies/build/my_msg_class -- -j20 -l20
+[0.025s] [35m[1mConsolidate compiler generated dependencies of target my_pub_test[0m
+[0.036s] [ 33%] [32mBuilding CXX object CMakeFiles/my_pub_test.dir/src/my_pub.cpp.o[0m
+[2.765s] [ 66%] [32m[1mLinking CXX executable my_pub_test[0m
+[2.865s] [100%] Built target my_pub_test
+[2.871s] Invoked command in '/home/keisoku/ros2_studies/build/my_msg_class' returned '0': AMENT_PREFIX_PATH=/home/keisoku/ros2_studies/install/my_messages:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keisoku/ros2_studies/install/my_messages:/opt/ros/humble LD_LIBRARY_PATH=/home/keisoku/ros2_studies/install/my_messages/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/keisoku/ros2_studies/install/my_messages/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/keisoku/ros2_studies/build/my_msg_class -- -j20 -l20
+[2.884s] Invoking command in '/home/keisoku/ros2_studies/build/my_msg_class': AMENT_PREFIX_PATH=/home/keisoku/ros2_studies/install/my_messages:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keisoku/ros2_studies/install/my_messages:/opt/ros/humble LD_LIBRARY_PATH=/home/keisoku/ros2_studies/install/my_messages/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/keisoku/ros2_studies/install/my_messages/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/keisoku/ros2_studies/build/my_msg_class
+[2.888s] -- Install configuration: ""
+[2.888s] -- Installing: /home/keisoku/ros2_studies/install/my_msg_class/lib/my_msg_class/my_pub_test
+[2.889s] -- Set runtime path of "/home/keisoku/ros2_studies/install/my_msg_class/lib/my_msg_class/my_pub_test" to ""
+[2.889s] -- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/ament_index/resource_index/package_run_dependencies/my_msg_class
+[2.889s] -- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/ament_index/resource_index/parent_prefix_path/my_msg_class
+[2.889s] -- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/environment/ament_prefix_path.sh
+[2.889s] -- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/environment/ament_prefix_path.dsv
+[2.889s] -- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/environment/path.sh
+[2.889s] -- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/environment/path.dsv
+[2.889s] -- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/local_setup.bash
+[2.889s] -- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/local_setup.sh
+[2.889s] -- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/local_setup.zsh
+[2.889s] -- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/local_setup.dsv
+[2.889s] -- Installing: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/package.dsv
+[2.889s] -- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/ament_index/resource_index/packages/my_msg_class
+[2.889s] -- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/cmake/my_msg_classConfig.cmake
+[2.889s] -- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/cmake/my_msg_classConfig-version.cmake
+[2.890s] -- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/package.xml
+[2.892s] Invoked command in '/home/keisoku/ros2_studies/build/my_msg_class' returned '0': AMENT_PREFIX_PATH=/home/keisoku/ros2_studies/install/my_messages:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keisoku/ros2_studies/install/my_messages:/opt/ros/humble LD_LIBRARY_PATH=/home/keisoku/ros2_studies/install/my_messages/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/keisoku/ros2_studies/install/my_messages/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/keisoku/ros2_studies/build/my_msg_class

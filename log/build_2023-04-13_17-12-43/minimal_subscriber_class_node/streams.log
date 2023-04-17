@@ -1,0 +1,27 @@
+[0.011s] Invoking command in '/home/keisoku/ros2_studies/build/minimal_subscriber_class_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/keisoku/ros2_studies/build/minimal_subscriber_class_node -- -j20 -l20
+[0.032s] [35m[1mConsolidate compiler generated dependencies of target callback_subscriber_test[0m
+[0.043s] [ 33%] [32mBuilding CXX object CMakeFiles/callback_subscriber_test.dir/src/minimal_subscriber_main.cpp.o[0m
+[0.043s] [ 66%] [32mBuilding CXX object CMakeFiles/callback_subscriber_test.dir/src/minimal_subscriber.cpp.o[0m
+[5.596s] [100%] [32m[1mLinking CXX executable callback_subscriber_test[0m
+[5.821s] [100%] Built target callback_subscriber_test
+[5.827s] Invoked command in '/home/keisoku/ros2_studies/build/minimal_subscriber_class_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/keisoku/ros2_studies/build/minimal_subscriber_class_node -- -j20 -l20
+[5.841s] Invoking command in '/home/keisoku/ros2_studies/build/minimal_subscriber_class_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/keisoku/ros2_studies/build/minimal_subscriber_class_node
+[5.844s] -- Install configuration: ""
+[5.844s] -- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/lib/minimal_subscriber_class_node/callback_subscriber_test
+[5.846s] -- Set runtime path of "/home/keisoku/ros2_studies/install/minimal_subscriber_class_node/lib/minimal_subscriber_class_node/callback_subscriber_test" to ""
+[5.846s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/ament_index/resource_index/package_run_dependencies/minimal_subscriber_class_node
+[5.846s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/ament_index/resource_index/parent_prefix_path/minimal_subscriber_class_node
+[5.847s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/environment/ament_prefix_path.sh
+[5.847s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/environment/ament_prefix_path.dsv
+[5.847s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/environment/path.sh
+[5.847s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/environment/path.dsv
+[5.847s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/local_setup.bash
+[5.847s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/local_setup.sh
+[5.847s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/local_setup.zsh
+[5.847s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/local_setup.dsv
+[5.847s] -- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/package.dsv
+[5.847s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/ament_index/resource_index/packages/minimal_subscriber_class_node
+[5.847s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/cmake/minimal_subscriber_class_nodeConfig.cmake
+[5.847s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/cmake/minimal_subscriber_class_nodeConfig-version.cmake
+[5.847s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/package.xml
+[5.848s] Invoked command in '/home/keisoku/ros2_studies/build/minimal_subscriber_class_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/keisoku/ros2_studies/build/minimal_subscriber_class_node

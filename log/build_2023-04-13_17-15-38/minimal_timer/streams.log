@@ -1,0 +1,26 @@
+[0.010s] Invoking command in '/home/keisoku/ros2_studies/build/minimal_timer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/keisoku/ros2_studies/build/minimal_timer -- -j20 -l20
+[0.029s] [35m[1mConsolidate compiler generated dependencies of target timer_test[0m
+[0.038s] [ 50%] [32mBuilding CXX object CMakeFiles/timer_test.dir/src/main.cpp.o[0m
+[1.922s] [100%] [32m[1mLinking CXX executable timer_test[0m
+[1.982s] [100%] Built target timer_test
+[1.987s] Invoked command in '/home/keisoku/ros2_studies/build/minimal_timer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/keisoku/ros2_studies/build/minimal_timer -- -j20 -l20
+[1.999s] Invoking command in '/home/keisoku/ros2_studies/build/minimal_timer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/keisoku/ros2_studies/build/minimal_timer
+[2.002s] -- Install configuration: ""
+[2.003s] -- Installing: /home/keisoku/ros2_studies/install/minimal_timer/lib/minimal_timer/timer_test
+[2.003s] -- Set runtime path of "/home/keisoku/ros2_studies/install/minimal_timer/lib/minimal_timer/timer_test" to ""
+[2.003s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_timer/share/ament_index/resource_index/package_run_dependencies/minimal_timer
+[2.003s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_timer/share/ament_index/resource_index/parent_prefix_path/minimal_timer
+[2.003s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_timer/share/minimal_timer/environment/ament_prefix_path.sh
+[2.003s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_timer/share/minimal_timer/environment/ament_prefix_path.dsv
+[2.003s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_timer/share/minimal_timer/environment/path.sh
+[2.003s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_timer/share/minimal_timer/environment/path.dsv
+[2.003s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_timer/share/minimal_timer/local_setup.bash
+[2.003s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_timer/share/minimal_timer/local_setup.sh
+[2.003s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_timer/share/minimal_timer/local_setup.zsh
+[2.004s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_timer/share/minimal_timer/local_setup.dsv
+[2.004s] -- Installing: /home/keisoku/ros2_studies/install/minimal_timer/share/minimal_timer/package.dsv
+[2.004s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_timer/share/ament_index/resource_index/packages/minimal_timer
+[2.004s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_timer/share/minimal_timer/cmake/minimal_timerConfig.cmake
+[2.004s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_timer/share/minimal_timer/cmake/minimal_timerConfig-version.cmake
+[2.004s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_timer/share/minimal_timer/package.xml
+[2.006s] Invoked command in '/home/keisoku/ros2_studies/build/minimal_timer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/keisoku/ros2_studies/build/minimal_timer

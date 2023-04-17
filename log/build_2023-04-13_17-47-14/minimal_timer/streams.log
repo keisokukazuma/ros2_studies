@@ -1,0 +1,5 @@
+[0.012s] Invoking command in '/home/keisoku/ros2_studies/build/minimal_timer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/keisoku/ros2_studies/build/minimal_timer -- -j20 -l20
+[0.035s] [35m[1mConsolidate compiler generated dependencies of target timer_test[0m
+[0.044s] [ 50%] [32mBuilding CXX object CMakeFiles/timer_test.dir/src/main.cpp.o[0m
+[1.950s] [100%] [32m[1mLinking CXX executable timer_test[0m
+[2.010s] [100%] Built target timer_test

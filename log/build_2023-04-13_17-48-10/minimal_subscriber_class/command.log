@@ -1,0 +1,1 @@
+Invoking command in '/home/keisoku/ros2_studies/build/minimal_subscriber_class': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/keisoku/ros2_studies/src/minimal_subscriber_class -DCMAKE_INSTALL_PREFIX=/home/keisoku/ros2_studies/install/minimal_subscriber_class

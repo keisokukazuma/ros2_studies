@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target callback_subscriber_test[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/callback_subscriber_test.dir/src/minimal_subscriber_main.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable callback_subscriber_test[0m
+[100%] Built target callback_subscriber_test
+-- Install configuration: ""
+-- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/lib/minimal_subscriber_class_node/callback_subscriber_test
+-- Set runtime path of "/home/keisoku/ros2_studies/install/minimal_subscriber_class_node/lib/minimal_subscriber_class_node/callback_subscriber_test" to ""
+-- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/ament_index/resource_index/package_run_dependencies/minimal_subscriber_class_node
+-- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/ament_index/resource_index/parent_prefix_path/minimal_subscriber_class_node
+-- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/environment/ament_prefix_path.sh
+-- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/environment/ament_prefix_path.dsv
+-- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/environment/path.sh
+-- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/environment/path.dsv
+-- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/local_setup.bash
+-- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/local_setup.sh
+-- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/local_setup.zsh
+-- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/local_setup.dsv
+-- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/package.dsv
+-- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/ament_index/resource_index/packages/minimal_subscriber_class_node
+-- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/cmake/minimal_subscriber_class_nodeConfig.cmake
+-- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/cmake/minimal_subscriber_class_nodeConfig-version.cmake
+-- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class_node/share/minimal_subscriber_class_node/package.xml

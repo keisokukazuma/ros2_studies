@@ -1,0 +1,16 @@
+/home/keisoku/ros2_studies/install/minimal_publisher_class/lib/minimal_publisher_class/minimal_publisher_test
+/home/keisoku/ros2_studies/install/minimal_publisher_class/share/ament_index/resource_index/package_run_dependencies/minimal_publisher_class
+/home/keisoku/ros2_studies/install/minimal_publisher_class/share/ament_index/resource_index/parent_prefix_path/minimal_publisher_class
+/home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/environment/ament_prefix_path.sh
+/home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/environment/ament_prefix_path.dsv
+/home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/environment/path.sh
+/home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/environment/path.dsv
+/home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/local_setup.bash
+/home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/local_setup.sh
+/home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/local_setup.zsh
+/home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/local_setup.dsv
+/home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/package.dsv
+/home/keisoku/ros2_studies/install/minimal_publisher_class/share/ament_index/resource_index/packages/minimal_publisher_class
+/home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/cmake/minimal_publisher_classConfig.cmake
+/home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/cmake/minimal_publisher_classConfig-version.cmake
+/home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/package.xml

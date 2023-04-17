@@ -1,0 +1,8 @@
+{
+  "package_name": "my_messages",
+  "non_idl_tuples": [
+    "/home/keisoku/ros2_studies/src/my_messages:msg/TwoInts.msg",
+    "/home/keisoku/ros2_studies/src/my_messages:msg/DoubleTwoInts.msg",
+    "/home/keisoku/ros2_studies/src/my_messages:srv/CalcTwoFloats.srv"
+  ]
+}

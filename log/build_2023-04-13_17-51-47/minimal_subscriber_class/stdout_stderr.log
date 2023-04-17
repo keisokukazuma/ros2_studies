@@ -1,0 +1,19 @@
+[35m[1mConsolidate compiler generated dependencies of target callback_subscriber_test[0m
+[100%] Built target callback_subscriber_test
+-- Install configuration: ""
+-- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class/lib/minimal_subscriber_class/callback_subscriber_test
+-- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/ament_index/resource_index/package_run_dependencies/minimal_subscriber_class
+-- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/ament_index/resource_index/parent_prefix_path/minimal_subscriber_class
+-- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/environment/ament_prefix_path.sh
+-- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/environment/path.sh
+-- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/environment/path.dsv
+-- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/local_setup.bash
+-- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/local_setup.sh
+-- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/local_setup.zsh
+-- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/local_setup.dsv
+-- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/package.dsv
+-- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/ament_index/resource_index/packages/minimal_subscriber_class
+-- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/cmake/minimal_subscriber_classConfig.cmake
+-- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/cmake/minimal_subscriber_classConfig-version.cmake
+-- Up-to-date: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/package.xml

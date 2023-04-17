@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+a8d77bf2adc7211bde36a3a9fd5384db CMakeFiles/minimal_publisher_class_uninstall

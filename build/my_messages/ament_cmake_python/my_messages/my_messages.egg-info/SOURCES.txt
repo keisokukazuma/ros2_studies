@@ -1,0 +1,11 @@
+setup.py
+my_messages/__init__.py
+my_messages.egg-info/PKG-INFO
+my_messages.egg-info/SOURCES.txt
+my_messages.egg-info/dependency_links.txt
+my_messages.egg-info/top_level.txt
+my_messages/msg/__init__.py
+my_messages/msg/_double_two_ints.py
+my_messages/msg/_two_ints.py
+my_messages/srv/__init__.py
+my_messages/srv/_calc_two_floats.py

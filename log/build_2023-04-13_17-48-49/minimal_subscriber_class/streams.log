@@ -1,0 +1,26 @@
+[0.013s] Invoking command in '/home/keisoku/ros2_studies/build/minimal_subscriber_class': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/keisoku/ros2_studies/build/minimal_subscriber_class -- -j20 -l20
+[0.038s] [ 66%] [32mBuilding CXX object CMakeFiles/callback_subscriber_test.dir/src/minimal_subscriber_main.cpp.o[0m
+[0.038s] [ 66%] [32mBuilding CXX object CMakeFiles/callback_subscriber_test.dir/src/minimal_subscriber.cpp.o[0m
+[5.681s] [100%] [32m[1mLinking CXX executable callback_subscriber_test[0m
+[5.907s] [100%] Built target callback_subscriber_test
+[5.913s] Invoked command in '/home/keisoku/ros2_studies/build/minimal_subscriber_class' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/keisoku/ros2_studies/build/minimal_subscriber_class -- -j20 -l20
+[5.926s] Invoking command in '/home/keisoku/ros2_studies/build/minimal_subscriber_class': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/keisoku/ros2_studies/build/minimal_subscriber_class
+[5.930s] -- Install configuration: ""
+[5.930s] -- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class/lib/minimal_subscriber_class/callback_subscriber_test
+[5.932s] -- Set runtime path of "/home/keisoku/ros2_studies/install/minimal_subscriber_class/lib/minimal_subscriber_class/callback_subscriber_test" to ""
+[5.932s] -- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/ament_index/resource_index/package_run_dependencies/minimal_subscriber_class
+[5.932s] -- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/ament_index/resource_index/parent_prefix_path/minimal_subscriber_class
+[5.932s] -- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/environment/ament_prefix_path.sh
+[5.932s] -- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/environment/ament_prefix_path.dsv
+[5.932s] -- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/environment/path.sh
+[5.932s] -- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/environment/path.dsv
+[5.932s] -- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/local_setup.bash
+[5.933s] -- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/local_setup.sh
+[5.933s] -- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/local_setup.zsh
+[5.933s] -- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/local_setup.dsv
+[5.933s] -- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/package.dsv
+[5.933s] -- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/ament_index/resource_index/packages/minimal_subscriber_class
+[5.933s] -- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/cmake/minimal_subscriber_classConfig.cmake
+[5.933s] -- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/cmake/minimal_subscriber_classConfig-version.cmake
+[5.933s] -- Installing: /home/keisoku/ros2_studies/install/minimal_subscriber_class/share/minimal_subscriber_class/package.xml
+[5.935s] Invoked command in '/home/keisoku/ros2_studies/build/minimal_subscriber_class' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/keisoku/ros2_studies/build/minimal_subscriber_class

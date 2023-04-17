@@ -1,0 +1,22 @@
+[0.013s] Invoking command in '/home/keisoku/ros2_studies/build/minimal_publisher_class': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/keisoku/ros2_studies/build/minimal_publisher_class -- -j20 -l20
+[0.043s] [100%] Built target minimal_publisher_test
+[0.051s] Invoked command in '/home/keisoku/ros2_studies/build/minimal_publisher_class' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/keisoku/ros2_studies/build/minimal_publisher_class -- -j20 -l20
+[0.070s] Invoking command in '/home/keisoku/ros2_studies/build/minimal_publisher_class': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/keisoku/ros2_studies/build/minimal_publisher_class
+[0.075s] -- Install configuration: ""
+[0.076s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_publisher_class/lib/minimal_publisher_class/minimal_publisher_test
+[0.076s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_publisher_class/share/ament_index/resource_index/package_run_dependencies/minimal_publisher_class
+[0.076s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_publisher_class/share/ament_index/resource_index/parent_prefix_path/minimal_publisher_class
+[0.076s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/environment/ament_prefix_path.sh
+[0.077s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/environment/ament_prefix_path.dsv
+[0.077s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/environment/path.sh
+[0.077s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/environment/path.dsv
+[0.077s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/local_setup.bash
+[0.077s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/local_setup.sh
+[0.077s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/local_setup.zsh
+[0.077s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/local_setup.dsv
+[0.077s] -- Installing: /home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/package.dsv
+[0.077s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_publisher_class/share/ament_index/resource_index/packages/minimal_publisher_class
+[0.077s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/cmake/minimal_publisher_classConfig.cmake
+[0.077s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/cmake/minimal_publisher_classConfig-version.cmake
+[0.077s] -- Up-to-date: /home/keisoku/ros2_studies/install/minimal_publisher_class/share/minimal_publisher_class/package.xml
+[0.104s] Invoked command in '/home/keisoku/ros2_studies/build/minimal_publisher_class' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/keisoku/ros2_studies/build/minimal_publisher_class

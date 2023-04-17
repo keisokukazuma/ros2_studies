@@ -1,0 +1,16 @@
+/home/keisoku/ros2_studies/install/minimal_class_node/lib/minimal_class_node/minimal_node_test
+/home/keisoku/ros2_studies/install/minimal_class_node/share/ament_index/resource_index/package_run_dependencies/minimal_class_node
+/home/keisoku/ros2_studies/install/minimal_class_node/share/ament_index/resource_index/parent_prefix_path/minimal_class_node
+/home/keisoku/ros2_studies/install/minimal_class_node/share/minimal_class_node/environment/ament_prefix_path.sh
+/home/keisoku/ros2_studies/install/minimal_class_node/share/minimal_class_node/environment/ament_prefix_path.dsv
+/home/keisoku/ros2_studies/install/minimal_class_node/share/minimal_class_node/environment/path.sh
+/home/keisoku/ros2_studies/install/minimal_class_node/share/minimal_class_node/environment/path.dsv
+/home/keisoku/ros2_studies/install/minimal_class_node/share/minimal_class_node/local_setup.bash
+/home/keisoku/ros2_studies/install/minimal_class_node/share/minimal_class_node/local_setup.sh
+/home/keisoku/ros2_studies/install/minimal_class_node/share/minimal_class_node/local_setup.zsh
+/home/keisoku/ros2_studies/install/minimal_class_node/share/minimal_class_node/local_setup.dsv
+/home/keisoku/ros2_studies/install/minimal_class_node/share/minimal_class_node/package.dsv
+/home/keisoku/ros2_studies/install/minimal_class_node/share/ament_index/resource_index/packages/minimal_class_node
+/home/keisoku/ros2_studies/install/minimal_class_node/share/minimal_class_node/cmake/minimal_class_nodeConfig.cmake
+/home/keisoku/ros2_studies/install/minimal_class_node/share/minimal_class_node/cmake/minimal_class_nodeConfig-version.cmake
+/home/keisoku/ros2_studies/install/minimal_class_node/share/minimal_class_node/package.xml

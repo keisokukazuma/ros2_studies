@@ -1,0 +1,28 @@
+[0.008s] Invoking command in '/home/keisoku/ros2_studies/build/minimal_subscriber_class_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/keisoku/ros2_studies/src/minimal_subscriber_class_node -DCMAKE_INSTALL_PREFIX=/home/keisoku/ros2_studies/install/minimal_subscriber_class_node
+[0.014s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.106s] -- Found rclcpp: 16.0.3 (/opt/ros/humble/share/rclcpp/cmake)
+[0.126s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.127s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.131s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.139s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.151s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.193s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.194s] -- Found rmw_fastrtps_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.267s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.379s] -- Found example_interfaces: 0.9.3 (/opt/ros/humble/share/example_interfaces/cmake)
+[0.515s] -- Configuring done
+[0.521s] -- Generating done
+[0.522s] -- Build files have been written to: /home/keisoku/ros2_studies/build/minimal_subscriber_class_node
+[0.526s] Invoked command in '/home/keisoku/ros2_studies/build/minimal_subscriber_class_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/keisoku/ros2_studies/src/minimal_subscriber_class_node -DCMAKE_INSTALL_PREFIX=/home/keisoku/ros2_studies/install/minimal_subscriber_class_node
+[0.527s] Invoking command in '/home/keisoku/ros2_studies/build/minimal_subscriber_class_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/keisoku/ros2_studies/build/minimal_subscriber_class_node -- -j20 -l20
+[0.551s] [ 33%] [32mBuilding CXX object CMakeFiles/callback_subscriber_test.dir/src/minimal_subscriber_main.cpp.o[0m
+[0.551s] [ 66%] [32mBuilding CXX object CMakeFiles/callback_subscriber_test.dir/src/minimal_subscriber.cpp.o[0m
+[0.556s] [01m[K/home/keisoku/ros2_studies/src/minimal_subscriber_class_node/src/minimal_subscriber_main.cpp:1:10:[m[K [01;31m[Kfatal error: [m[Krclcpp.hpp: そのようなファイルやディレクトリはありません
+[0.556s]     1 | #include [01;31m[K<rclcpp.hpp>[m[K
+[0.556s]       |          [01;31m[K^~~~~~~~~~~~[m[K
+[0.556s] compilation terminated.
+[0.556s] gmake[2]: *** [CMakeFiles/callback_subscriber_test.dir/build.make:76: CMakeFiles/callback_subscriber_test.dir/src/minimal_subscriber_main.cpp.o] エラー 1
+[0.556s] gmake[2]: *** 未完了のジョブを待っています....
+[5.773s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/callback_subscriber_test.dir/all] エラー 2
+[5.773s] gmake: *** [Makefile:146: all] エラー 2
+[5.774s] Invoked command in '/home/keisoku/ros2_studies/build/minimal_subscriber_class_node' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/keisoku/ros2_studies/build/minimal_subscriber_class_node -- -j20 -l20

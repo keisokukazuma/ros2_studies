@@ -1,0 +1,2 @@
+Invoking command in '/home/keisoku/ros2_studies/build/my_messages': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/keisoku/ros2_studies/src/my_messages -DCMAKE_INSTALL_PREFIX=/home/keisoku/ros2_studies/install/my_messages
+Invoked command in '/home/keisoku/ros2_studies/build/my_messages' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/keisoku/ros2_studies/src/my_messages -DCMAKE_INSTALL_PREFIX=/home/keisoku/ros2_studies/install/my_messages

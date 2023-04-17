@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target my_pub_test[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/my_pub_test.dir/src/my_pub.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable my_pub_test[0m
+[100%] Built target my_pub_test
+-- Install configuration: ""
+-- Installing: /home/keisoku/ros2_studies/install/my_msg_class/lib/my_msg_class/my_pub_test
+-- Set runtime path of "/home/keisoku/ros2_studies/install/my_msg_class/lib/my_msg_class/my_pub_test" to ""
+-- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/ament_index/resource_index/package_run_dependencies/my_msg_class
+-- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/ament_index/resource_index/parent_prefix_path/my_msg_class
+-- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/environment/ament_prefix_path.sh
+-- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/environment/path.sh
+-- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/environment/path.dsv
+-- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/local_setup.bash
+-- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/local_setup.sh
+-- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/local_setup.zsh
+-- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/local_setup.dsv
+-- Installing: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/package.dsv
+-- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/ament_index/resource_index/packages/my_msg_class
+-- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/cmake/my_msg_classConfig.cmake
+-- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/cmake/my_msg_classConfig-version.cmake
+-- Up-to-date: /home/keisoku/ros2_studies/install/my_msg_class/share/my_msg_class/package.xml

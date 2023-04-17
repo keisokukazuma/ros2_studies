@@ -1,0 +1,8 @@
+[01m[K/home/keisoku/ros2_studies/src/minimal_subscriber_class_node/src/minimal_subscriber_main.cpp:1:10:[m[K [01;31m[Kfatal error: [m[Krclcpp.hpp: そのようなファイルやディレクトリはありません
+    1 | #include [01;31m[K<rclcpp.hpp>[m[K
+      |          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/callback_subscriber_test.dir/build.make:76: CMakeFiles/callback_subscriber_test.dir/src/minimal_subscriber_main.cpp.o] エラー 1
+gmake[2]: *** 未完了のジョブを待っています....
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/callback_subscriber_test.dir/all] エラー 2
+gmake: *** [Makefile:146: all] エラー 2
